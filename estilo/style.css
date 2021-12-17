@@ -176,6 +176,10 @@ aside > ul{
     columns: 2;
 }
 
+aside a{
+    color: black;
+}
+
 footer{
     background-color: var(--cor6);
     color: white;
